@@ -37,13 +37,13 @@ An Arduino Uno-based Home Automation System that integrates **motion detection**
 
 ## ⚙️ Circuit Summary
 
-- **PIR Sensor** → Digital Pin `2`
+- **PIR Sensor** → Digital Pin `4`
 - **Buzzer** → Digital Pin `3`
-- **Bulb (via relay)** → Digital Pin `4`
-- **Gas Sensor** → Analog Pin `A0`
-- **Thermistor** → Analog Pin `A1` (with 10k resistor voltage divider)
+- **Bulb (via relay)** → Digital Pin `2`
+- **Gas Sensor** → Analog Pin `A1`
+- **Thermistor** → Analog Pin `A0` (with 10k resistor voltage divider)
 - **Ultrasonic (Trig+Echo)** → Digital Pin `6`
-- **Water Motor (via relay)** → Digital Pin `8`
+- **Water Motor (via relay)** → Digital Pin `5`
 
 ---
 
